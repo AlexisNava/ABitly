@@ -8,4 +8,4 @@ ABitly is a simple clone of Bitly.
 
 ## License
 
-**ABitly** is licensed under Apache License, Version 2.0.
+**ABitly** is licensed under [Apache License, Version 2.0](https://github.com/AlexisNava/ABitly/blob/master/LICENSE).
